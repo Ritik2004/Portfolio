@@ -15,25 +15,31 @@ const portfolioData = [
   {
     id: 2,
     name: "Find Movies",
-    image: ImageOne,
+    image: ImageFour,
     link: "https://movie-react-cqz5.vercel.app/",
   },
   {
-    id: 3,
+    id: 2,
     name: "Notes App",
     link: "https://react-todo-front.vercel.app/login",
     image: ImageTwo,
   },
   {
-    id: 2,
-    name: "Supplier Design",
-    image: ImageThree,
-    link: "https://www.google.com/",
+    id: 3,
+    name: "StopWatch",
+    image: ImageSix,
+    link: "https://stopwatch-tan.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
+    name: "Calulator",
+    image: ImageThree,
+    link: "https://ritik2004.github.io/calculator/",
+  },
+  {
+    id: 3,
     name: "Todo App",
-    image: ImageFour,
+    image: ImageOne,
     link: "https://www.google.com/",
   },
   {
@@ -41,12 +47,6 @@ const portfolioData = [
     name: "Dog Tinder Website",
     image: ImageFive,
     link: "https://ritik2004.github.io/dogapp/",
-  },
-  {
-    id: 2,
-    name: "Calculator",
-    image: ImageSix,
-    link: "https://stopwatch-tan.vercel.app/",
   },
 ];
 

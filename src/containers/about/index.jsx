@@ -21,7 +21,11 @@ const personalDetails = [
   }
 ]
 
-const jobsummary = " kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh Lekenfkln kejejg;eg; ejejgegj;gj ejegj jejgewg jegewgwg ;ege;gwggegjgirh  eeheghewgh"
+const jobsummary = "I'm a software developer with more than 1.5 years of professional experience.\
+ I have worked in devops and full stack development using the MERN stack. I have worked with various tools and technologies, such as Docker, Kubernetes to ensure efficient and reliable software delivery. \n As a full stack developer, I have built web applications using MongoDB, Express.js, React, and Node.js.\
+ I have also integrated third-party APIs and services, such as Google Maps, Stripe, and Firebase, to enhance the functionality and user experience of the applications.\
+ I am a team player and enjoys working with colleagues and sharing knowledge. I believe in continuous learning and improvement, and I am always looking for new challenges and opportunities to grow. I enjoy exploring new areas and technologies.\
+ My positive attitude and optimism help me stay motivated and focused, even when facing obstacles or setbacks. I believe that a can-do mindset and a proactive approach are essential for success in any field."
 
 const About = () => {
   return (
