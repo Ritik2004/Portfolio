@@ -7,6 +7,12 @@ import ImageThree from "../../images/p3.jpg";
 import ImageFour from "../../images/p4.jpg";
 import ImageFive from "../../images/p5.jpg";
 import ImageSix from "../../images/p6.jpg";
+import ImageEight from "../../images/p8.jpg" 
+import ImageNine from '../../images/p9.jpg'
+import ImageTen from '../../images/p10.avif'
+import ImageEleven from '../../images/p11.jpg'
+import ImageTwelve from '../../images/p12.png'
+
 import "./styles.scss";
 import { useState } from "react";
 import { useNavigate,useEffect } from "react-router-dom";
@@ -25,10 +31,22 @@ const portfolioData = [
     image: ImageTwo,
   },
   {
+    id: 2,
+    name: "Music App",
+    link: "https://song-card.vercel.app/",
+    image: ImageEight,
+  },
+  {
+    id: 2,
+    name: "Shopping Cart",
+    link: "https://redux-cart-brown.vercel.app/",
+    image: ImageNine,
+  },
+  {
     id: 3,
-    name: "StopWatch",
-    image: ImageSix,
-    link: "https://stopwatch-tan.vercel.app/",
+    name: "Analog Clock",
+    image: ImageTwelve,
+    link: "https://ritik2004.github.io/Analog_Clock/",
   },
   {
     id: 3,
@@ -36,17 +54,30 @@ const portfolioData = [
     image: ImageThree,
     link: "https://ritik2004.github.io/calculator/",
   },
-  {
-    id: 3,
-    name: "Todo App",
-    image: ImageOne,
-    link: "https://www.google.com/",
-  },
+ 
   {
     id: 3,
     name: "Dog Tinder Website",
     image: ImageFive,
     link: "https://ritik2004.github.io/dogapp/",
+  },
+  {
+    id: 3,
+    name: "Meal App",
+    image: ImageTen,
+    link: "https://ritik2004.github.io/meal-app/",
+  },
+  {
+    id: 3,
+    name: "Calendar",
+    image: ImageEleven,
+    link: "https://ritik2004.github.io/calendar/",
+  },
+  {
+    id: 3,
+    name: "StopWatch",
+    image: ImageSix,
+    link: "https://stopwatch-tan.vercel.app/",
   },
 ];
 
